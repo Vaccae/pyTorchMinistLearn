@@ -29,3 +29,4 @@
 ## Demo对应的学习文章，关注公众号《微卡智享》获取更多信息
 
 ### [pyTorch入门（一）——Minist手写数据识别训练全连接网络](https://mp.weixin.qq.com/s/zo_BadXJqcTn0PsAhYii0A)  
+### [pyTorch入门（二）——常用网络层函数及卷积神经网络训练](https://mp.weixin.qq.com/s/rTDuNh2Y2K0l5F4En6rV0g)  
