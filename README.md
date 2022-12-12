@@ -30,3 +30,4 @@
 
 ### [pyTorch入门（一）——Minist手写数据识别训练全连接网络](https://mp.weixin.qq.com/s/zo_BadXJqcTn0PsAhYii0A)  
 ### [pyTorch入门（二）——常用网络层函数及卷积神经网络训练](https://mp.weixin.qq.com/s/rTDuNh2Y2K0l5F4En6rV0g)  
+### [pyTorch入门（三）——GoogleNet和ResNet训练](https://mp.weixin.qq.com/s/Ak7gbREwawgM4Y4-l6xQww)  
