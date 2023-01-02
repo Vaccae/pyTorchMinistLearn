@@ -33,3 +33,4 @@
 ### [pyTorch入门（三）——GoogleNet和ResNet训练](https://mp.weixin.qq.com/s/Ak7gbREwawgM4Y4-l6xQww)  
 ### [pyTorch入门（四）——导出Minist模型，C++ OpenCV DNN进行识别](https://mp.weixin.qq.com/s/BDV0SsyvZ6mKrKnCmX3igA)  
 ### [pyTorch入门（五）——训练自己的数据集](https://mp.weixin.qq.com/s/GZVfaxhWl5s5jUCYppO9UA)  
+### [pyTorch入门（六）——实战Android Minist OpenCV手写数字识别](https://mp.weixin.qq.com/s/2AkIv9FVfJ-ES0nFp5ojZA)  
